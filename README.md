@@ -14,9 +14,9 @@
 ---
 
 ###  About Me
-- Music Is My Life
-- 24/7 Korean dramas
-- Interested in **JavaScript & PHP**
+- Im a student from SMK Ti Bali Global Denpasar.
+- My hobbie is playing modern and tradisional music.
+- Im fiveteen years old.
 - Fun fact: *AI 50% Brain 50%*
 - Always Learning New Things
 
